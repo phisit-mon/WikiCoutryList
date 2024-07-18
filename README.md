@@ -12,7 +12,7 @@ Libraries
 2. Compose navigation component
 3. Coroutine
 
-Design pattern MVVM Pattern and Repositor (Mocking data)
+Design pattern MVVM Pattern and Repository (Mocking data)
 
 <img width="368" alt="Screenshot 2567-07-16 at 15 04 38" src="https://github.com/user-attachments/assets/a78b3b0a-ae75-4804-8137-a022b81859aa">
 <img width="362" alt="Screenshot 2567-07-16 at 15 04 49" src="https://github.com/user-attachments/assets/30e36d56-f98f-47ca-ad90-4e310697650c">
