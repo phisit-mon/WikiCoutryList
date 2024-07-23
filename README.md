@@ -2,7 +2,7 @@
 WIKICountryList is a project that includes a list of countries. 
 Users can click on a country to get more information directly from the Wikipedia website through the application.
 
-This project using Compose UI for Android development.
+This project use Compose UI for Android development.
 
 The key focus of this project is how to write Compose UI tests and adopt the Page Object Model (POM) concept to enhance test maintainability and readability.
 
